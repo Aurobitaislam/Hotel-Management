@@ -1,0 +1,2 @@
+# Hotel-Management
+The project, Hotel Management System is a web-based application that allows the hotel manager to handle all hotel activities online. The system allows the manager to post available rooms in the system. Customers can view and book room online. Admin has the power of either approving or disapproving the customer’s booking request. Other hotel services can also be viewed by the customers and can book them too. The system is hence useful for both customers and managers to portable manage the hotel activities.
